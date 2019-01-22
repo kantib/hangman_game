@@ -1,6 +1,5 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from io import BytesIO
-import cgi
 import random
 import ast
 
